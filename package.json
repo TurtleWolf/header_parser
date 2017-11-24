@@ -2,6 +2,10 @@
   "name": "header_parser_360-tutorial",
   "version": "1.0.0",
   "description": "https://youtu.be/qlvFLfxC_tA",
+  "engines": {
+    "node": "8.9.1",
+    "npm": "5.5.1"
+  },
   "main": "index.js",
   "scripts": {
     "test": "test.js"
